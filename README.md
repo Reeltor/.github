@@ -1,4 +1,5 @@
-# 🏢 Reeltor
+# ![favicon-16x16](https://github.com/user-attachments/assets/d70f687a-6849-457a-8976-75c7223adf7f) Reeltor.com
+
 
 ![Made with React Native](https://img.shields.io/badge/Made_with-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Made in India](https://img.shields.io/badge/Made_in-India-orange?style=for-the-badge)
@@ -54,7 +55,7 @@ At Reeltor, we believe in:
 
 ## 💼 Join Our Journey
 
-We're always looking for passionate people who want to revolutionize the real estate industry. Visit our [Careers Page](https://reeltor.in/careers) to explore opportunities in:
+We're always looking for passionate people who want to revolutionize the real estate industry. Visit our [Careers Page](https://careers.reeltor.com) to explore opportunities in:
 
 - Mobile Development
 - Backend Engineering
@@ -77,15 +78,12 @@ We're always looking for passionate people who want to revolutionize the real es
 
 ## 📞 Connect With Us
 
-- Website: [reeltor.in](https://reeltor.in)
+- Website: [reeltor.in](https://reeltor.com)
 - LinkedIn: [Reeltor](https://linkedin.com/company/reeltor)
 - Twitter: [@ReeltorApp](https://twitter.com/reeltorapp)
-- Email: hello@reeltor.in
+- Email: support@reeltor.com
 
-## 🌟 Recognition
-- Featured in YourStory's "30 Startups to Watch"
-- Winner of Real Estate Innovation Award 2024
-- Featured in Economic Times "Emerging Tech Leaders"
+
 
 ---
 ### 🏗️ Building the Future of Real Estate Discovery in India
