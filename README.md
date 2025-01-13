@@ -1,4 +1,6 @@
-# ![favicon-16x16](https://github.com/user-attachments/assets/d70f687a-6849-457a-8976-75c7223adf7f) Reeltor.com
+# ![favicon-32x32](https://github.com/user-attachments/assets/4748d28b-7f63-4613-81f0-38f2961d02c9) Reeltor.com
+
+ 
 
 
 ![Made with React Native](https://img.shields.io/badge/Made_with-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
